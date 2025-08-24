@@ -298,16 +298,18 @@ One-click ML model deployment with auto-scaling
 ```javascript
 const shubh = {
     currentlyWorking: ["🚀 Next-gen SaaS platform", "🤖 AI agents ecosystem"],
-    learning: ["🌐 Web3 & DeFi", "🧠 Advanced ML/AI", "⚡ Rust & WebAssembly"],
+    learning: ["🌐 Web3 & DeFi", "🧠 Advanced ML/AI", "⚡ Rust & Solidity"],
     goals2025: [
-        "🎯 Launch my AI startup",
-        "📝 Write technical book",
+        "🎯 Launch my startup",
         "🎤 Speak at 10+ conferences",
         "🌟 Reach 100k GitHub stars"
     ],
     lifePhilosophy: "Code with purpose, build with passion! 💫"
 };
 ```
+<!--
+  "📝 Write technical book",
+-->
 
 </div>
 
@@ -350,7 +352,7 @@ const shubh = {
 </div>
 
 ---
-
+<!--
 <div align="center">
 
 ## 🎵 Currently Jamming To
@@ -359,8 +361,9 @@ const shubh = {
 
 </div>
 
----
 
+---
+-->
 <div align="center">
 
 ## 📬 Let's Build Something Amazing Together!
