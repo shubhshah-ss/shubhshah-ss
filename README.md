@@ -346,6 +346,9 @@ const shubh = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&border_color=00d4ff" alt="Readme Quotes" />
 </picture>
 
+
+
+
 ### 😄 Daily Dev Humor
 <img src='https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&bgColor=%230d1117' alt="Jokes Card" width="400px"/>
 
