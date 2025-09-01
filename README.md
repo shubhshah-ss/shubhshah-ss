@@ -385,7 +385,7 @@ const shubh = {
 ## 📬 Let's Build Something Amazing Together!
 
 [![Email Me](https://img.shields.io/badge/📧_Email_Me-Let's_Chat-FF6B35?style=for-the-badge&logoColor=white)](mailto:shahshubh23.ss@gmail.com)
-[![Book a Call](https://img.shields.io/badge/📞_Book_Call-30_Min_Free-00D4FF?style=for-the-badge&logoColor=white)](https://calendly.com/shubhshah-ss)
+[![Book a Call](https://img.shields.io/badge/📞_Book_Call-30_Min_Free-00D4FF?style=for-the-badge&logoColor=white)](https://calendly.com/shahshubh23-ss/30min)
 [![View Portfolio](https://img.shields.io/badge/🌐_Portfolio-Check_it_Out-4CAF50?style=for-the-badge&logoColor=white)](https://builtbyshubh.com)
 
 </div>
